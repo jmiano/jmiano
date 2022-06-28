@@ -6,7 +6,6 @@ I am a data scientist with 3+ years of experience building models for computer v
 <p align="center">
 📄 <a href='https://drive.google.com/file/d/1-gvNGPDhp_E4bNXWWVbYwM1vmzSOPGGY/view' target='_blank'>Resume</a> &nbsp
 🌐 <a href='https://www.josephmiano.com' target='_blank'>Website</a> &nbsp
-💼 <a href='https://www.linkedin.com/in/joseph-miano/' target='_blank'>LinkedIn</a> &nbsp
 📧 <a href='mailto: j.miano@outlook.com' target='_blank'>Email</a>
 </p>
 
