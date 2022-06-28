@@ -1,4 +1,4 @@
-### Hi; Bonjour; Hola 👋
+### Hi 👋
 Welcome to my GitHub.
 
 ### About
