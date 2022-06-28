@@ -1,4 +1,4 @@
-### Hi, Welcome to my GitHub page 👋
+### Hi, welcome to my GitHub 👋
 
 ### About
 I am a data scientist with 3+ years of experience building models for computer vision, natural language processing, and tabular datasets. With a B.S. in neuroscience and an M.S. in computer science, I am especially excited about the development of neural networks and the increasing complexity of problems they can solve. Over the past several years, I have had the opportunity to work on analytics for large-scale medication adherence outreach programs, multi-task neural networks for brain microscopy image segmentation, transformer-based NLP models to detect COVID-19 outbreaks from news articles, model explainability in credit risk assessment, and more.
