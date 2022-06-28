@@ -1,6 +1,5 @@
 ### Hi 👋
 
-I'm a data scientist and machine learning engineer with 3+ years of experience in computer vision, natural language processing, tabular datasets, and deep learning.
 - <a href='https://www.josephmiano.com' target='_blank'>Website</a>
 - <a href='https://www.linkedin.com/in/joseph-miano/' target='_blank'>LinkedIn</a>
 - <a href='https://www.josephmiano.com' target='_blank'>Resume</a>
