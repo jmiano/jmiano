@@ -1,9 +1,9 @@
 ### Hi 👋
 
 I'm a data scientist and machine learning engineer with 3+ years of experience in computer vision, natural language processing, tabular datasets, and deep learning.
-- **Website**
-- **LinkedIn**
-- **Resume**
+- Website
+- LinkedIn
+- <a href='josephmiano.com' target='_blank'>Resume</a>
 
 ### Technical Skills
 
