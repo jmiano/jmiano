@@ -8,7 +8,8 @@ I'm a data scientist and machine learning engineer with 3+ years of experience i
 Technical Skills
 
 <p>
-    
+
+| **Category** | **Technology** |
 | - | - |
 **Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=MySQL&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Java&color=f89820&logo=java&logoColor=white'>
 **ML & Big Data** | <img src='https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=PySpark&color=E25A1C&logo=apachespark&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikitlearn&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Dask&color=FDA061&logo=Dask&logoColor=white'>
