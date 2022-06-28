@@ -5,7 +5,7 @@ I'm a data scientist and machine learning engineer with 3+ years of experience i
 - LinkedIn
 - Resume
 
-Technical Skills
+#### Technical Skills
 
 <p>
 
