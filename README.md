@@ -2,7 +2,7 @@
 Welcome to my GitHub!
 
 ### About
-I am a Generative AI Team Lead, Solution Architect, and Machine Learning Engineer with 6+ years of experience building models for natural language processing, computer vision, and tabular datasets. With a B.S. in neuroscience and an M.S. in computer science, I am especially excited about the development of neural networks and the increasing complexity of problems they can solve.
+I am a Generative AI Machine Learning Engineer and Solution Architect with 6+ years of experience building models for natural language processing, computer vision, and tabular datasets. With a B.S. in neuroscience and an M.S. in computer science, I am especially excited about the development of neural networks and the increasing complexity of problems they can solve.
 
 <p align="center">
 📄 <a href='https://drive.google.com/file/d/1-gvNGPDhp_E4bNXWWVbYwM1vmzSOPGGY/view' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
