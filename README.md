@@ -10,6 +10,8 @@ I am an AI Engineer and Solution Architect with 6+ years of experience building 
 📧 <a href='mailto: j.miano@outlook.com' target='_blank'><b>Email</b></a>
 </p>
 
+Follow my AI engineering notes and demos on [X (@joemianosf)](https://x.com/joemianosf).
+
 ### Technical Skills
 
 <table>
